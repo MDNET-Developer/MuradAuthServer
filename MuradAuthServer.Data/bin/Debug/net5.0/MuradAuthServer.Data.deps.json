@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MuradAuthServer.Data/1.0.0": {
+        "dependencies": {
+          "MuradAuthServer.Core": "1.0.0"
+        },
+        "runtime": {
+          "MuradAuthServer.Data.dll": {}
+        }
+      },
+      "MuradAuthServer.Core/1.0.0": {
+        "runtime": {
+          "MuradAuthServer.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MuradAuthServer.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MuradAuthServer.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

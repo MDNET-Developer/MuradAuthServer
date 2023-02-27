@@ -1,0 +1,12 @@
+D:\MyProjects\NEW\MuradAuthServer\SharedLiblary\bin\Debug\net5.0\SharedLiblary.deps.json
+D:\MyProjects\NEW\MuradAuthServer\SharedLiblary\bin\Debug\net5.0\SharedLiblary.dll
+D:\MyProjects\NEW\MuradAuthServer\SharedLiblary\bin\Debug\net5.0\SharedLiblary.pdb
+D:\MyProjects\NEW\MuradAuthServer\SharedLiblary\obj\Debug\net5.0\SharedLiblary.csproj.AssemblyReference.cache
+D:\MyProjects\NEW\MuradAuthServer\SharedLiblary\obj\Debug\net5.0\SharedLiblary.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NEW\MuradAuthServer\SharedLiblary\obj\Debug\net5.0\SharedLiblary.AssemblyInfoInputs.cache
+D:\MyProjects\NEW\MuradAuthServer\SharedLiblary\obj\Debug\net5.0\SharedLiblary.AssemblyInfo.cs
+D:\MyProjects\NEW\MuradAuthServer\SharedLiblary\obj\Debug\net5.0\SharedLiblary.csproj.CoreCompileInputs.cache
+D:\MyProjects\NEW\MuradAuthServer\SharedLiblary\obj\Debug\net5.0\SharedLiblary.dll
+D:\MyProjects\NEW\MuradAuthServer\SharedLiblary\obj\Debug\net5.0\refint\SharedLiblary.dll
+D:\MyProjects\NEW\MuradAuthServer\SharedLiblary\obj\Debug\net5.0\SharedLiblary.pdb
+D:\MyProjects\NEW\MuradAuthServer\SharedLiblary\obj\Debug\net5.0\ref\SharedLiblary.dll

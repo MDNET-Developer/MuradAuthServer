@@ -1,0 +1,15 @@
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\bin\Debug\net5.0\MuradAuthServer.Data.deps.json
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\bin\Debug\net5.0\MuradAuthServer.Data.dll
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\bin\Debug\net5.0\MuradAuthServer.Data.pdb
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\obj\Debug\net5.0\MuradAuthServer.Data.csproj.AssemblyReference.cache
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\obj\Debug\net5.0\MuradAuthServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\obj\Debug\net5.0\MuradAuthServer.Data.AssemblyInfoInputs.cache
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\obj\Debug\net5.0\MuradAuthServer.Data.AssemblyInfo.cs
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\obj\Debug\net5.0\MuradAuthServer.Data.csproj.CoreCompileInputs.cache
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\obj\Debug\net5.0\MuradAuthServer.Data.dll
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\obj\Debug\net5.0\refint\MuradAuthServer.Data.dll
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\obj\Debug\net5.0\MuradAuthServer.Data.pdb
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\obj\Debug\net5.0\ref\MuradAuthServer.Data.dll
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\bin\Debug\net5.0\MuradAuthServer.Core.dll
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\bin\Debug\net5.0\MuradAuthServer.Core.pdb
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Data\obj\Debug\net5.0\MuradAuthServer.Data.csproj.CopyComplete
