@@ -10,3 +10,6 @@ D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Core\obj\Debug\net5.0\MuradAut
 D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Core\obj\Debug\net5.0\refint\MuradAuthServer.Core.dll
 D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Core\obj\Debug\net5.0\MuradAuthServer.Core.pdb
 D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Core\obj\Debug\net5.0\ref\MuradAuthServer.Core.dll
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Core\bin\Debug\net5.0\SharedLiblary.dll
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Core\bin\Debug\net5.0\SharedLiblary.pdb
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Core\obj\Debug\net5.0\MuradAuthServer.Core.csproj.CopyComplete

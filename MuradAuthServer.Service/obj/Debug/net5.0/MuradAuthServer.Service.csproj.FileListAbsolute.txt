@@ -15,3 +15,5 @@ D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Service\bin\Debug\net5.0\Murad
 D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Service\bin\Debug\net5.0\MuradAuthServer.Data.pdb
 D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Service\bin\Debug\net5.0\MuradAuthServer.Core.pdb
 D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Service\obj\Debug\net5.0\MuradAuthServer.Service.csproj.CopyComplete
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Service\bin\Debug\net5.0\SharedLiblary.dll
+D:\MyProjects\NEW\MuradAuthServer\MuradAuthServer.Service\bin\Debug\net5.0\SharedLiblary.pdb
