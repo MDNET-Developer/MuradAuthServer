@@ -47,7 +47,18 @@ namespace SharedLiblary.Dtos
             };
         }
 
-       
+
+        public static Response<T> Fail(string errorMessage, int statusCode,bool isShow)
+        {
+            var errorDtoClas = new ErrorDto(errorMessage, isShow);
+            return new Response<T>()
+            {
+                errorDto = errorDtoClas,
+                StatusCode = statusCode
+            };
+        }
+
+
 
     }
 }

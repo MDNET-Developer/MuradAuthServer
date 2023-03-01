@@ -16,8 +16,8 @@ namespace MuradAuthServer.Core.Service
         /*Where(x=>x.Id == 5) burada "x=>" olan hisse TEntity hissesine uygun gelir, "x.Id==5" olan hisse ise bool tipine uygun gelir ki, bu sorguda 5-e beraberdir ya yox ? sorgusu gedir
          * 
         Biz ne zaman ToList() desek o zaman sorgunu yerine yetirir*/
-        Task<Response<TDto>> AddAsync(TEntity entity);
-        Task<Response<NoDataDto>> Remove(TEntity entity);
-        Task<Response<NoDataDto>> Update(TEntity entity);
+        Task<Response<TDto>> AddAsync(TDto dto);
+        Task<Response<NoDataDto>> Remove(int id);
+        Task<Response<NoDataDto>> Update(TDto dto, int id);
     }
 }
